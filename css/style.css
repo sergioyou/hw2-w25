@@ -66,3 +66,35 @@ div {
     border-top: 2px solid black;
     color: #c4c4c4;
 }
+
+/*Yellow class style */
+.yellow {
+    background-color: #FFFF00;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px solid black;
+    border-left: 5px solid black;
+    color: #707070
+}
+
+/* Green class style */
+.green {
+    background-color: #008500;
+    text-align: left;
+    margin-right: 50px;
+    border-right: 5px solid black;
+    border-top: 2px solid black;
+}
+
+/*Styling the footer*/
+footer {
+    background: linear-gradient(90deg, #000000, #0000FF 25%, #0066FF 70%, #000000);
+    border: 5px solid white;
+}
+
+/*Style any paragraph*/
+footer p {
+    font-size: 20px;
+    text-align: right;
+    padding: 15px 15px 15px 0;
+}
