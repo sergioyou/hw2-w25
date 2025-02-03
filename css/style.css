@@ -67,6 +67,11 @@ div {
     color: #C4C4C4;
 }
 
+/*Ensuring the contrast for h2 is better for the blue class*/
+.blue h2 {
+    color: #FFFFFF;
+}
+
 /*Yellow class style */
 .yellow {
     background-color: #FFFF00;
