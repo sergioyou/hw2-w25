@@ -1,0 +1,21 @@
+/*This is the body*/
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: #000;
+    color:white;
+    margin: 20px auto 0 auto;
+    text-align: center;
+}
+
+/*Style of the <h1> heading*/
+h1 {
+    font-size: 42px;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Style of h2*/
+h2{
+    font-size: 30px;
+    color: #0d0d0d
+}
