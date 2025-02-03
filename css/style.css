@@ -40,3 +40,29 @@ div {
     padding: 20px;
     border: 3px solid white;
 }
+
+/*Styling the intro class*/
+.instroduction {
+    border-radius: 15px;
+    margin-top: 15px;
+    line-height: 2;
+}
+
+/*Stylying the red class*/
+.red {
+    background-color: #FF0000;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px solid black;
+    border-left: 5px solid black;
+}
+
+/*Blue class style*/
+.blue {
+    background-color: #0000FF;
+    text-align: left;
+    margin-right: 50px;
+    border-right: 5px solid black;
+    border-top: 2px solid black;
+    color: #c4c4c4;
+}
